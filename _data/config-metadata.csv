@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
+creator,Recipe Author,
+date,Date Received,
+description,Notes,
+subject,Occassion,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Family Name
 identifier,Source Identifier,,
-type,Type,
+type,Recipe Category,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
