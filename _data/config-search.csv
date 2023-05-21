@@ -6,3 +6,4 @@ description,true,true
 subject,true,true
 location,true,false
 contributor,true,true
+type,true,true
